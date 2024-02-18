@@ -1,9 +1,13 @@
 app:
+<<<<<<< HEAD
 
   telegram-token: ${TELEGRAM-API-KEY}
 
 
 
+=======
+  telegram-token: unset
+>>>>>>> origin/hw1
 
 spring:
   application:
